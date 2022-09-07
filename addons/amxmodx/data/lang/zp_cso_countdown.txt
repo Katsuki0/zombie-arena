@@ -1,0 +1,2 @@
+[ru]
+ZP_CSO_COUNTDOWN_NOTICE = Заражение через: %i

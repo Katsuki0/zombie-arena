@@ -1,0 +1,29 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<link type="text/css" rel="stylesheet" href="http://maxim-kurtev.narod.ru/_sf/0/43_adminka.css"/>
+</head>
+<body>
+<center>
+<div class="div_left_top"><div class="div_right_top"></div></div>
+<div class="div_body">
+<div class="div_body_wrapper">
+<h1>Игрокам ЗАПРЕЩАЕТСЯ:</h1>
+<h3>
+<span style="color:red">1.</span> Использовать читы: Speedhack, Aim, BunnyHop.<br>
+<span style="color:red">2.</span> Оскорблять других игроков и их родителей.<br>
+<span style="color:red">3.</span> Просить у админа дать вам что-то из админки (аммо паки).<br>
+<span style="color:red">4.</span> Рекламировать другие сервера и интернет ресурсы.<br>
+<span style="color:red">5.</span> Флудить в чате.<br>
+<span style="color:red">6.</span> Включать в голосовой чат музыку и посторонние звуки.<br>
+<span style="color:red">7.</span> Нельзя мониторить во время дьявола.<br>
+<span style="color:red">8.</span> Тянуть время, если все игроки кроме вас умерли.<br>
+<span style="color:red">9.</span> Нельзя стоять афк, когда вы первый зомби.<br>
+<span style="color:red">10.</span> Если вы дьявол, значит убивайте всех игроков.<br>
+</h3>
+</div>
+</div>
+<div class="div_left_bottom"><div class="div_right_bottom"></div></div>
+</center>
+</body>
+</html>

@@ -1,0 +1,21 @@
+﻿ <html>
+<head></head>
+<style type="text/css">
+body	{
+	background-color: #000000;
+	font-family:Verdana,Tahoma;
+		}
+</style>
+<body bgcolor=black text=white>
+    <font size="2" color=#00c000><strong>Преимущества VIP-аккаунта (200руб/мес.):</strong></font><br>
+    <font size="2" color="#ffffff"><strong>2 прыжка в воздухе.</strong></font><br />
+    <font size="2" color="#ffffff"><strong>Полная броня.</strong></font><br />
+    <font size="2" color="#ffffff"><strong>За убийство 10 аммо паков.</strong></font><br />
+    <font size="2" color="#ffffff"><strong>1000HP за заражение.</strong></font><br />
+	<font size="2" color="#ffffff"><strong>VIP моделька + Зомби Класс (Ревенант ICE).</strong></font><br />
+	<font size="2" color="#ffffff"><strong>Доступ к ножу "HAMMER".</strong></font><br />
+	<font size="2" color="#ffffff"><strong>Иммунитет от бана/кика.</strong></font><br />
+	<font size="2" color="#ffffff"><strong>Резервный слот.</strong></font><br />
+	<font size="2" color="#ffffff"><strong>Discord Кацуки#5554</strong></font><br />
+</body>
+</html>

@@ -1,0 +1,39 @@
+[ru]
+BIG_INFO = Способность /g[Ставить Ловушки] /y| Количество /g[%d] /y| Кнопка /g[R]
+BIG_INFO2 = Способность /g[Черный экран] /y(пассиве). Ожидание: /g %d сек.
+BIG_TIME = Способность через
+BIG_GOTOVO = Способность /g[Черный экран] /yготова
+BIG_TRAP = Вы попали в ловушку и не можете двигаться
+BIG_TRAPUSE = Вы ставите Ловушку
+BIG_TRAP2 = У вас осталось /g[%d]/y ловушек
+BIG_TRAPNET = У вас закончились все ловушки
+BIG_TRAPUSE2 = Вы должны стоять на месте, чтобы поставить Ловушку
+BIG_TRAPNET2 = Вы не можете поставить сдесь ловушку
+BIG_TRAPYRA = Вы поставили ловушку
+
+CLASS_SHAMAN = Способность /g[Колдовать]/y | Ожидание: /g[30]/y сек | Кнопка /g[E]
+CLASS_SHAMAN2 = Вы снова можете /g[Колдовать]/y | Кнопка /g[E]
+
+CLASS_SPEED = Разгон через
+CLASS_INFO = Способность /g[Разгон]/y готово | Кнопка /g[ALT].
+CLASS_INFO2 = Способность /g[Разгон]/y Ожидание: /g[%d]/y сек | Кнопка /g[ALT]
+
+[en]
+BIG_INFO = Ability /g[Put trap] /y| Number /g[%d] /y| button /g[R]
+BIG_INFO2 = Ability /g [Black screen] /y (passive). Waiting: /g[%d]/y second
+BIG_TIME = Ability through
+BIG_GOTOVO = Ability /g [Black screen] /y ready
+BIG_TRAP = You are trapped and can not move
+BIG_TRAPUSE = You set a trap
+BIG_TRAP2 = Do you have /g[%d]/y traps
+BIG_TRAPNET = Do you run all the traps
+BIG_TRAPUSE2 = You have to stand in place to deliver Trap
+BIG_TRAPNET2 = You can not put sdes trap
+BIG_TRAPYRA = You put the trap
+
+CLASS_SHAMAN = Ability /g[Conjure]/y | Waiting: /g[30]/y sec | Button /g[E]
+CLASS_SHAMAN2 = Again you can /g[Conjure]/y | Button /g[E]
+
+CLASS_SPEED = Dispersal via
+CLASS_INFO = Ability /g[Acceleration]/y ready | Button /g[ALT].
+CLASS_INFO2 = Ability /g[Acceleration]/y Expectation: /g%d/y second | Button /g[ALT]

@@ -1,0 +1,30 @@
+[ru]
+INV_PAS = неверный (setinfo _pw) пароль!
+AUTHORISED = %s стал ВИПом. (Стим ИД: ^"%s^") (Айпи: ^"%s^") (Флаги: ^"%s^")
+VIP_CONNECTED = VIP-персона %s присоединяется
+VIP_STATUS_CON = Скайп главного админа: -- %s
+VIP_STATUS_N = нету
+VIP_STATUS = Подключённые VIP-персоны:
+MISSING_AMMO = Не хватает %d пак(ов) для покупки.
+NO_ITEMS = Вашему классу недоступны экстра предметы.
+NOT_A_VIP = You are not a VIP member.
+OFF = ВЫКЛ.
+BOUGHT_VIP = Вы успешно купили ВИП статус на %d дней.
+
+MENU_TOP = ВИП экстра предметы:
+AMMO = пак(ов)
+NEXT = дальше
+BACK = назад
+EXIT = выход
+
+BUY_MENU_TOP = \yЦена \r%d \yпак(ов). Срок - \r%d \yдней.^nВыберите тип авторизации:
+BUY_MENU_TYPE1 = Ник + Пароль\r(настройки)
+BUY_MENU_TYPE2 = СтимИД\r(купить)
+BUY_MENU_TYPE3 = Айпи адрес\r(купить)
+
+NICK_BUY_MENU_TOP = После покупки ник менять нельзя!^nВаш файл config.cfg  не должен быть в режиме 'read only'!^n\yВаш пароль: \w%s
+NICK_BUY_MENU_TYPE1 = генерировать случайно
+NICK_BUY_MENU_TYPE2 = Как поменять пароль?
+NICK_BUY_MENU_TYPE3 = Всё в порядке, покупка \r[\y%d \rкредитов. На \y%d\r дней]
+
+NICK_BUY_MENU_SEC_TOP = \yесли хотите задать пароль, напишите в консоли \rsetinfo _pw password\y ^nпароль выбирайте какой хотите.
